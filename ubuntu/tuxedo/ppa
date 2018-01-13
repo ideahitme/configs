@@ -1,0 +1,20 @@
+/etc/apt/sources.list:deb http://archive.ubuntu.com/ubuntu/ xenial main restricted universe multiverse
+/etc/apt/sources.list:deb http://security.ubuntu.com/ubuntu/ xenial-security main restricted universe multiverse
+/etc/apt/sources.list:deb http://archive.ubuntu.com/ubuntu/ xenial-updates main restricted universe multiverse
+/etc/apt/sources.list:
+/etc/apt/sources.list.d/graphics-drivers.list:# deb http://graphics.tuxedocomputers.com/ubuntu wily main
+/etc/apt/sources.list.d/graphics-drivers.list:deb http://ppa.launchpad.net/graphics-drivers/ppa/ubuntu xenial main
+/etc/apt/sources.list.d/graphics-drivers.list.save:#deb http://graphics.tuxedocomputers.com/ubuntu wily main
+/etc/apt/sources.list.d/graphics-drivers.list.save:deb http://ppa.launchpad.net/graphics-drivers/ppa/ubuntu xenial main 
+/etc/apt/sources.list.d/kernelppa.list:deb http://kernel.tuxedocomputers.com/ubuntu xenial main
+/etc/apt/sources.list.d/kernelppa.list.save:deb http://kernel.tuxedocomputers.com/ubuntu xenial main
+/etc/apt/sources.list.d/nvbn-rm-ubuntu-ppa-xenial.list:deb http://ppa.launchpad.net/nvbn-rm/ppa/ubuntu xenial main
+/etc/apt/sources.list.d/nvbn-rm-ubuntu-ppa-xenial.list:# deb-src http://ppa.launchpad.net/nvbn-rm/ppa/ubuntu xenial main
+/etc/apt/sources.list.d/oibaf.list:deb http://ppa.launchpad.net/oibaf/graphics-drivers/ubuntu xenial main
+/etc/apt/sources.list.d/oibaf.list:
+/etc/apt/sources.list.d/oibaf.list.save:deb http://ppa.launchpad.net/oibaf/graphics-drivers/ubuntu xenial main
+/etc/apt/sources.list.d/oibaf.list.save:
+/etc/apt/sources.list.d/tuxedo-computers.list:deb http://deb.tuxedocomputers.com/ubuntu xenial main
+/etc/apt/sources.list.d/tuxedo-computers.list:
+/etc/apt/sources.list.d/tuxedo-computers.list.save:deb http://deb.tuxedocomputers.com/ubuntu xenial main
+/etc/apt/sources.list.d/tuxedo-computers.list.save:
